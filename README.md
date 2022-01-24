@@ -43,13 +43,6 @@ description:
 ## 它是怎么工作的？
 <img width="860" alt="WechatIMG237" src="https://user-images.githubusercontent.com/5109966/150799723-ffd337ef-d56e-4340-b74c-6b03de556a2d.png">
 
-
-## 网络架构模式
-
-
-## 如何保障数据安全
-
-
 # 如何申请试用
 
 ## 流程概览

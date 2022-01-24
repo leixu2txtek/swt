@@ -108,12 +108,13 @@ https://user-images.githubusercontent.com/5109966/150792249-69886ed8-61a3-4d09-9
 -  设置完成后等待硬件设备重新启动
 -  回到电话菜单，等待右上角信号图标变成绿色，并展示具体信号值
 
-## 确认设备版本
+## 查看硬件设备版本
 - 打开APP，进入**我的**菜单
 - 点击**我的设备**进入设备列表页面
 - 点击当前使用的设备，点击**获取版本**，并等待提示，如图：
-
-<img src="https://user-images.githubusercontent.com/5109966/150797107-087d882a-048f-48cc-a225-e4626a552727.jpeg" alt="查看版本" width="200"/>
+<div>
+  <img src="https://user-images.githubusercontent.com/5109966/150797107-087d882a-048f-48cc-a225-e4626a552727.jpeg" alt="查看版本" width="200"/>
+</div>
 
 
 ## 如何拨打电话

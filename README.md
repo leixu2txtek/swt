@@ -7,11 +7,6 @@ author: leixu2txtek
 keywords: 
 # 描述
 description:
-# 分类
-category: 
-# 引用
-ref:
----
 
 # 关于我们
 

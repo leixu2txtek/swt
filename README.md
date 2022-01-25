@@ -11,8 +11,40 @@ description:
 
 # 关于我们
 
+成都蜀维通科技有限公司成立于2013年，是一家致力于通过开发专用设备及应用，解决通讯、漫游、语音处理的创新型产品设计公司
+
+公司创立于2013年，在研究并取得专利成果后，公司从2013年至今，开发了“GROAMING”的国际漫游产品
+
+2021年，公司研发的国际漫游产品GROAMING CALL，完成前期的研发，进入调试阶段
+
+
+**地址：** 成都市成华区建设北路三段2号1栋2单元24层2号
+
+**邮箱：** admin@groaming.cn；
 
 # 我们的硬件
+
+<div>
+  <img src="https://user-images.githubusercontent.com/5109966/151004649-b70bf2ba-4b42-4b61-8891-8ce450e37d32.jpeg" alt="硬件正面立体图片" width="242"/>
+  <img src="https://user-images.githubusercontent.com/5109966/151004894-67912275-3576-4700-b7f4-82c5899d16c2.jpeg" alt="硬件背面立体图片" width="300"/>
+</div>
+
+## 规格
+- CPU采用四核A53，主频最高可达2GHZ
+- GPU采用Mali450，集成海思自研双核GPU;
+- 256MB NAND FLASH
+- 512MB DDR3，最大32bit数据位宽
+- 4G模块采用移远 LTE EC21-A，支持全球4G频段
+- 固话模块采用 SI3030+SI3019，支持DTMG/FSK来电制式
+- 无线模块支持 802.11 b/g/n WiFi 和 Bluetooth 4.0
+- RGB LED 指示灯
+- 100Mbps 有线网口
+- RJ11 电话线插口
+- 1个USB 2.0 插槽
+- Nano-SIM卡插槽
+- 英飞凌e-SIM模块
+
+
 
 ## 它是怎么工作的？
 <img width="860" alt="WechatIMG237" src="https://user-images.githubusercontent.com/5109966/150799723-ffd337ef-d56e-4340-b74c-6b03de556a2d.png">

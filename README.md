@@ -27,7 +27,9 @@ description:
 <div>
   <img src="https://user-images.githubusercontent.com/5109966/151004649-b70bf2ba-4b42-4b61-8891-8ce450e37d32.jpeg" alt="硬件正面立体图片" width="242"/>
   <img src="https://user-images.githubusercontent.com/5109966/151004894-67912275-3576-4700-b7f4-82c5899d16c2.jpeg" alt="硬件背面立体图片" width="300"/>
+  <img src="https://user-images.githubusercontent.com/5109966/151007875-fb455860-b7eb-456f-8bf2-d58fb5a7ff57.jpeg" alt="硬件背面插口图片" width="410"/>
 </div>
+
 
 ## 规格
 - CPU采用四核A53，主频最高可达2GHZ

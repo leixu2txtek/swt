@@ -106,13 +106,14 @@ https://user-images.githubusercontent.com/5109966/150792249-69886ed8-61a3-4d09-9
 - 要确认是用的是nano SIM 还是普通 sim卡大小
 - 贴图展示SIM卡插入方向即可
 - 设备检测成功后，在APP中**电话**菜单中又上角的固话图标将为绿色
-<img src="https://user-images.githubusercontent.com/5109966/151645851-4122df06-6526-446c-b7c1-808a2cdebe3d.png" alt="固话、4G正常工作指示" width="200"/>
+<img src="https://user-images.githubusercontent.com/5109966/151645911-7695354a-ccb2-4599-ae84-d8a07ffd85e8.png" alt="固话、4G正常工作指示" width="200"/>
+
 
 ## 配置固定电话
 - 将对应的电话线插入设备的电话线端口，并等待设备检测；
 - 设备检测成功后，在APP中**电话**菜单中左上角的固话图标将为绿色
 
-<img src="https://user-images.githubusercontent.com/5109966/151645851-4122df06-6526-446c-b7c1-808a2cdebe3d.png" alt="固话、4G正常工作指示" width="200"/>
+<img src="https://user-images.githubusercontent.com/5109966/151645911-7695354a-ccb2-4599-ae84-d8a07ffd85e8.png" alt="固话、4G正常工作指示" width="200"/>
 
 ## 绑定设备并设置网络
 - 使用刚注册的账号登录APP

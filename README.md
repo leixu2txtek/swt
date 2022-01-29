@@ -102,12 +102,6 @@ https://user-images.githubusercontent.com/5109966/150788544-d8a24130-f9db-48fe-8
 
 https://user-images.githubusercontent.com/5109966/150792249-69886ed8-61a3-4d09-9208-51e32f99c372.mp4
 
-## 准备硬件
-- 硬件设备是基于ARM平台的定制主板
-- 包含固定电话模块、移动4G模块、e-SIM模块、100Mbps有线插口、2.4G无线Wi-Fi模块、12V电源模块、USB接口；
-- 硬件的工作模式可以根据主面板的指示灯进行查看
-- 此处应该有2张图片
-
 ## 配置SIM卡
 - 要确认是用的是nano SIM 还是普通 sim卡大小
 - 贴图展示SIM卡插入方向即可

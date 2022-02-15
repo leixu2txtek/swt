@@ -32,7 +32,7 @@ description:
 
 
 ## 规格
-- CPU采用四核A53，主频最高可达2GHZ
+- CPU采用四核A53，主频最高可达2GHz
 - GPU采用Mali450，集成海思自研双核GPU;
 - 256MB NAND FLASH
 - 512MB DDR3，最大32bit数据位宽

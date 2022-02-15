@@ -25,9 +25,9 @@ description:
 # 我们的硬件
 
 <div>
-  <img src="https://user-images.githubusercontent.com/5109966/151004649-b70bf2ba-4b42-4b61-8891-8ce450e37d32.jpeg" alt="硬件正面立体图片" width="242"/>
-  <img src="https://user-images.githubusercontent.com/5109966/151004894-67912275-3576-4700-b7f4-82c5899d16c2.jpeg" alt="硬件背面立体图片" width="300"/>
-  <img src="https://user-images.githubusercontent.com/5109966/151007875-fb455860-b7eb-456f-8bf2-d58fb5a7ff57.jpeg" alt="硬件背面插口图片" width="410"/>
+  <img src="https://user-images.githubusercontent.com/5109966/154067967-61447db3-a41d-46a1-b103-52b0d1ca9bcd.jpeg" alt="硬件正面立体图片" width="320"/>
+  <img src="https://user-images.githubusercontent.com/5109966/154068019-6b97e476-3ced-498c-9ef9-3b5058bb398e.jpeg" alt="硬件背面立体图片" width="320"/>
+  <img src="https://user-images.githubusercontent.com/5109966/154068072-48f6b0a6-a8c4-4406-b7c9-0a26d3080386.jpeg" alt="硬件侧面立体图片" width="292.5"/>
 </div>
 
 
@@ -120,11 +120,14 @@ https://user-images.githubusercontent.com/5109966/150792249-69886ed8-61a3-4d09-9
 - 进入我的菜单，点击 **我的设备** 按钮，点击右上角的 **+** 按钮，进入扫描二维码模式
 
 - 扫描设备背面自带的二维码信息，并填写设备昵称后确认绑定即可
--  在 **设备列表** 中点击刚绑定的设备，选择 **设置网络**
--  按照提示，使用取卡针点击**设备右侧**的**针孔按钮**让设备进入蓝牙配网模式
--  APP按照提示进行设置操作（我们建议使用有线网络模式）
--  设置完成后等待硬件设备重新启动
--  回到电话菜单，等待右上角信号图标变成绿色，并展示具体信号值
+- 在 **设备列表** 中点击刚绑定的设备，选择 **设置网络**
+- 按照提示，使用取卡针点击**设备右侧**的**针孔按钮**让设备进入蓝牙配网模式（如下图：）
+- <img src="https://user-images.githubusercontent.com/5109966/154069311-a42f3310-ce2c-4c0b-85cf-126a8cd9e975.png" alt="蓝牙配网模式按钮" width="320"/>
+- APP按照提示进行设置操作（我们建议使用有线网络模式）
+- 设置完成后等待硬件设备重新启动，这里需要等待大约30秒
+- 回到电话菜单，等待右上角信号图标变成绿色，并展示具体信号值
+- 具体操作视频如下
+<video src="https://user-images.githubusercontent.com/5109966/154071056-7107778e-d99d-445e-b341-6d3bc707c2e5.mp4" alt="设置设备网络" width="320" ></video>
 
 ## 查看硬件设备版本
 - 打开APP，进入**我的**菜单
@@ -163,8 +166,6 @@ https://user-images.githubusercontent.com/5109966/150792249-69886ed8-61a3-4d09-9
 作为服务的提供方，我们本身是不存储用户的任何通话记录，通话音频，短信内容以及其他个人敏感信息，我们提供的服务均基于TLSv1.2 安全传输协议为基础，另外所有短信内容都基于端到端的加密机制，服务器端不做任何密钥信息存储；
 
 在试用阶段，我们会记录相关日志以便于我们了解我们的程序在发生异常之前都进行了哪些操作，请务必理解和同意试用阶段的必要权限申请
-
-
 
 
 

@@ -124,27 +124,20 @@ https://user-images.githubusercontent.com/5109966/150792249-69886ed8-61a3-4d09-9
 - 设备检测成功后，在APP中**电话**菜单中又上角的固话图标将为绿色
 - <img src="https://user-images.githubusercontent.com/5109966/151645911-7695354a-ccb2-4599-ae84-d8a07ffd85e8.png" alt="固话、4G正常工作指示" width="260"/>
 
-
 ## 配置固定电话
 - 将对应的电话线插入设备的电话线端口，并等待设备检测；
 - 设备检测成功后，在APP中**电话**菜单中左上角的固话图标将为绿色
-
-<img src="https://user-images.githubusercontent.com/5109966/151645911-7695354a-ccb2-4599-ae84-d8a07ffd85e8.png" alt="固话、4G正常工作指示" width="260"/>
+- <img src="https://user-images.githubusercontent.com/5109966/151645911-7695354a-ccb2-4599-ae84-d8a07ffd85e8.png" alt="固话、4G正常工作指示" width="260"/>
 
 ## 查看硬件设备版本
 - 打开APP，进入**我的**菜单
 - 点击**我的设备**进入设备列表页面
 - 点击当前使用的设备，点击**获取版本**，并等待提示，如图：
-<div>
-  <img src="https://user-images.githubusercontent.com/5109966/150797107-087d882a-048f-48cc-a225-e4626a552727.jpeg" alt="查看版本" width="200"/>
-</div>
-
+- <img src="https://user-images.githubusercontent.com/5109966/150797107-087d882a-048f-48cc-a225-e4626a552727.jpeg" alt="查看版本" width="200"/>
 
 ## 如何拨打电话
 
 ## 如何发送短信
-
-
 
 # FAQ
 

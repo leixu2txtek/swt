@@ -117,10 +117,11 @@ https://user-images.githubusercontent.com/5109966/150792249-69886ed8-61a3-4d09-9
 <video src="https://user-images.githubusercontent.com/5109966/154071056-7107778e-d99d-445e-b341-6d3bc707c2e5.mp4" alt="设置设备网络" width="320" ></video>
 
 ## 配置SIM卡
-- 设备采用主流的Nano SIM卡
+- 设备采用标准SIM卡，如果是Nano SIM，需要增加卡套
 - <img width="420" alt="SIM卡大小比对" src="https://user-images.githubusercontent.com/5109966/154073280-42811680-5c64-42eb-bfdc-4e5a33dd34f5.png">
-- 调整设备天线，将Nano SIM卡插入SIM卡卡槽位置
+- 调整设备天线，将标准 SIM卡插入卡槽位置，见下图
 - <img src="https://user-images.githubusercontent.com/5109966/154072551-bff4c0d6-4cf4-482c-8a11-d7693577ce23.jpeg" alt="卡槽位置" width="420"/>
+- https://user-images.githubusercontent.com/5109966/155334375-13a3d05a-32c6-4bd4-b06a-311a217a2e36.mp4
 - 设备检测成功后，在APP中**电话**菜单中又上角的固话图标将为绿色
 - <img src="https://user-images.githubusercontent.com/5109966/151645911-7695354a-ccb2-4599-ae84-d8a07ffd85e8.png" alt="固话、4G正常工作指示" width="260"/>
 

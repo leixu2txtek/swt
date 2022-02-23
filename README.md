@@ -109,7 +109,7 @@ https://user-images.githubusercontent.com/5109966/150792249-69886ed8-61a3-4d09-9
 
 - 在 **设备列表** 中点击刚绑定的设备，选择 **设置网络**
 - 按照提示，使用取卡针点击**设备右侧**的**针孔按钮**让设备进入蓝牙配网模式，网络提示灯红绿交替闪烁，说明已进入配网模式（如下图：）
-- <img src="https://user-images.githubusercontent.com/5109966/154069311-a42f3310-ce2c-4c0b-85cf-126a8cd9e975.png" alt="蓝牙配网模式按钮" width="320"/>
+- <video src="https://user-images.githubusercontent.com/5109966/155342074-f501914f-5798-4d3e-97ce-1cf37273412b.mp4" ></video>
 - APP按照提示进行设置操作（我们建议使用有线网络模式）
 - 设置完成后等待硬件设备重新启动，这里需要等待大约30秒
 - 回到电话菜单，等待右上角信号图标变成绿色，并展示具体信号值
@@ -120,7 +120,7 @@ https://user-images.githubusercontent.com/5109966/150792249-69886ed8-61a3-4d09-9
 - 设备采用标准SIM卡，如果是Nano SIM，需要增加卡套
 - <img width="420" alt="SIM卡大小比对" src="https://user-images.githubusercontent.com/5109966/154073280-42811680-5c64-42eb-bfdc-4e5a33dd34f5.png">
 - 调整设备天线，将标准 SIM卡插入卡槽位置，操作视频如下
-- <video src="https://user-images.githubusercontent.com/5109966/155334375-13a3d05a-32c6-4bd4-b06a-311a217a2e36.mp4" width="640" height="480"></video>
+- <video src="https://user-images.githubusercontent.com/5109966/155334375-13a3d05a-32c6-4bd4-b06a-311a217a2e36.mp4" ></video>
 - 设备检测成功后，在APP中**电话**菜单中又上角的固话图标将为绿色
 - <img src="https://user-images.githubusercontent.com/5109966/151645911-7695354a-ccb2-4599-ae84-d8a07ffd85e8.png" alt="固话、4G正常工作指示" width="260"/>
 
